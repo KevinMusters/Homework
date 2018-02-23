@@ -1,0 +1,16 @@
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.frmMain.resources
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.frmAdd.resources
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\bin\Debug\Google.Protobuf.dll
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\bin\Debug\MySql.Data.dll
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\bin\Debug\Google.Protobuf.xml
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\bin\Debug\MySql.Data.xml
+C:\Users\kevin\OneDrive\Visual Studio 2017\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.frmLogin.resources
